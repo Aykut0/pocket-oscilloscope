@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KiCad1")(type "KiCad")(uri "D:/Downloads/LIB_TL1017AABF160QG/TL1017AABF160QG/KiCad")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "D:/Downloads/LIB_SLW-913535-2A-SMT/SLW-913535-2A-SMT/KiCad")(options "")(descr ""))
+)
